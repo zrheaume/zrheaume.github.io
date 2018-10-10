@@ -1,0 +1,47 @@
+header{
+    background: rgb(255, 206, 114);
+    border-radius: 6px;
+}
+
+#up-top{
+    clear: both;
+}
+
+.center{
+    margin: auto;
+    width: 50%;
+    border: 1px solid lightgray;
+    padding: 10px;
+}
+
+#page-top{ 
+    margin-top: 10px;
+    padding-top: 10px;
+}
+
+#header-name{
+    font-family: 'Quicksand', sans-serif;
+    font-size: 48px;
+    font-weight: 800;
+}
+
+#header-subtext{
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 32px;
+    letter-spacing: 16px;
+}
+
+#about-section{
+    margin-left: 25px;
+    border-radius: 6px;
+}
+
+/* #link-section{
+    margin-left: 15px;
+} */
+
+p{
+    padding: 20px;
+
+}
+

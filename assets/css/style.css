@@ -14,6 +14,29 @@ header{
     padding: 10px;
 }
 
+.link-custom{   
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid grey;
+    border-radius: 4px;
+}
+
+.link-custom-header{
+
+}
+
+.link-custom-title{
+    font-size: 24px;
+}
+
+.link-custom-body{
+
+}
+
+.link-custom-desc{
+
+}
+
 #page-top{ 
     margin-top: 10px;
     padding-top: 10px;

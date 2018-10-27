@@ -1,5 +1,5 @@
 header{
-    background: rgb(255, 206, 114);
+    background: rgb(45, 45, 66);
     border-radius: 6px;
 }
 
@@ -8,7 +8,7 @@ header{
 }
 
 .center{
-    margin: auto;
+    margin: 15px;
     width: 50%;
     border: 1px solid lightgray;
     padding: 10px;
@@ -21,20 +21,8 @@ header{
     border-radius: 4px;
 }
 
-.link-custom-header{
-
-}
-
 .link-custom-title{
     font-size: 24px;
-}
-
-.link-custom-body{
-
-}
-
-.link-custom-desc{
-
 }
 
 #page-top{ 
@@ -46,12 +34,14 @@ header{
     font-family: 'Quicksand', sans-serif;
     font-size: 48px;
     font-weight: 800;
+    color: white;
 }
 
 #header-subtext{
     font-family: 'Fjalla One', sans-serif;
     font-size: 32px;
     letter-spacing: 16px;
+    color: white;
 }
 
 #about-section{
